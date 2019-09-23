@@ -1,0 +1,7 @@
+﻿  GameCaro.c
+C:\Users\phanm\source\repos\Project1\Project1\GameCaro.c(56,13): warning C4013:  'DrawOutLine' undefined; assuming extern returning int
+C:\Users\phanm\source\repos\Project1\Project1\GameCaro.c(90,22): warning C4013:  'getch' undefined; assuming extern returning int
+C:\Users\phanm\source\repos\Project1\Project1\GameCaro.c(94,17): warning C4013:  'isFullBoard' undefined; assuming extern returning int
+C:\Users\phanm\source\repos\Project1\Project1\GameCaro.c(97,23): warning C4013:  'VictoryCondition' undefined; assuming extern returning int
+C:\Users\phanm\source\repos\Project1\Project1\GameCaro.c(271,16): warning C4098:  'GameControl': 'void' function returning a value
+C:\Users\phanm\source\repos\Project1\Project1\GameCaro.c(286,6): error C2371:  'DrawOutLine': redefinition; different basic types
